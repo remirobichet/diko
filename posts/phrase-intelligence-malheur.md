@@ -5,6 +5,6 @@ summary: >-
   "L'intelligence c'est le seul outil qui permet à l'homme de mesurer son
   malheur."
 tags:
-  - post
+  - phrase
 ---
 Pierre Desproge
