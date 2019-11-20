@@ -7,4 +7,6 @@ summary: >-
 tags:
   - mot
 ---
-[https://fr.wikipedia.org/wiki/Apophénie](https://fr.wikipedia.org/wiki/Apophénie)
+Entendu dans Stranger Things (prof qui parle a la mère).
+
+<https://fr.wikipedia.org/wiki/Apophénie>
