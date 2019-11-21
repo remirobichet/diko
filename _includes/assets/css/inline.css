@@ -24,10 +24,6 @@ body {
 	color: var(--color);
 }
 
-main {
-	max-width: 37.5em;
-}
-
 p,
 pre,
 code {
@@ -145,6 +141,14 @@ a[rel="tag"]:hover {
 
 a[rel="tag"]:last-child {
 	margin-right: 0;
+}
+
+/* Tag List */
+
+section.tag-list  a[rel="tag"] {
+	padding: 2em;
+	height: 6em;
+	letter-spacing: 0.4em;
 }
 
 /* Contact Form */
