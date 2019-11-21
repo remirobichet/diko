@@ -104,6 +104,15 @@ header nav li a[data-current="current item"] {
 	text-decoration: underline;
 }
 
+/* Section 'postlist' */
+
+section[data-layout="postlist"] {
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-column-gap: 20px;
+	grid-row-gap: 20px;
+}
+
 /* Posts List */
 article {
 	margin-bottom: 1em;
@@ -186,5 +195,9 @@ button {
 @media screen and (min-width:768px) {
 	:root {
 		font-size: 1.1rem;
+	}
+
+	section[data-layout="postlist"] {
+		grid-template-columns: 1fr 1fr;
 	}
 }
