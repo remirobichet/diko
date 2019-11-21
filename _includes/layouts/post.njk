@@ -11,6 +11,12 @@ section: post
     </small>
   </p>
 
+  {% if summary %}
+    <p>
+      {{ summary }}
+    </p>
+  {% endif %}
+
   {{ layoutContent | safe }}
 
   {% if tags %}
