@@ -7,7 +7,7 @@ summary: >-
   des imbéciles gais et des imbéciles tristes Eh bien, je suis un imbécile
   triste"
 tags:
-  - phrase
+  - citation
 ---
 La mariée était en noir (1968)
 
