@@ -5,7 +5,7 @@ summary: >-
   Altération de la perception, qui conduit un individu à attribuer un sens
   particulier à des événements banals
 tags:
-  - mot
+  - "mot \U0001F1EB\U0001F1F7"
 ---
 Entendu dans Stranger Things (prof qui parle a la mère).
 
