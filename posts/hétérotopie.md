@@ -3,7 +3,7 @@ title: Hétérotopie
 date: 2019-11-20T09:52:00.000Z
 summary: Localisation physique de l'utopie.
 tags:
-  - mot
+  - "mot \U0001F1EB\U0001F1F7"
 ---
 From : Cours Flora
 
