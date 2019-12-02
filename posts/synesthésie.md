@@ -3,7 +3,7 @@ title: Synesthésie
 date: 2019-11-20T09:49:00.000Z
 summary: Phénomène neurologique par lequel deux ou plusieurs sens sont associés.
 tags:
-  - mot
+  - "mot \U0001F1EB\U0001F1F7"
 ---
 [From https://blog.axel-rayer.com/post/la-synesth%C3%A9sie-chez-les-d%C3%A9veloppeurs/](<From https://blog.axel-rayer.com/post/la-synesth%C3%A9sie-chez-les-d%C3%A9veloppeurs/>)
 
