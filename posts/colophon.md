@@ -9,4 +9,4 @@ summary: >-
 tags:
   - "mot \U0001F1EB\U0001F1F7"
 ---
-[https://fr.wikipedia.org/wiki/Colophon_(livre](https://fr.wikipedia.org/wiki/Colophon_(livre))
+[https://fr.wikipedia.org/wiki/Colophon_(livre)](https://fr.wikipedia.org/wiki/Colophon_(livre))
