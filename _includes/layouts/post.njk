@@ -2,6 +2,14 @@
 layout: layouts/base.njk
 section: post
 ---
+{% for tag in tags %}
+  {%- if tag == "rando" -%}    
+    {% set css %}
+      {% include "assets/css/inline-rando.css" %}
+    {% endset %}
+    <style>{{ css | cssmin | safe }}</style>
+  {%- endif -%}
+{% endfor %}
 
 <article>
   <h1>{{ title }}</h1>

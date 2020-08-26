@@ -121,6 +121,11 @@ article {
 	border-bottom: 1px solid var(--white);
 }
 
+article img{
+	max-width: 100%;
+    max-height: 100vh;
+}
+
 main > section > article > * {
 	margin-top: 0;
 	margin-bottom: .5em;
